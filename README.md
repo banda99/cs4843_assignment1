@@ -1,31 +1,31 @@
 # cs4843_assignment1
 
 #index.html#
- In this html file you will find my coverpage and image as well as a hyperlink to the next page.
+ >In this html file you will find my coverpage and image as well as a hyperlink to the next page.
  
  #Page1.html#
- In this html page, you will find a 30 second video and hyperlink to the next page.
+ >In this html page, you will find a 30 second video and hyperlink to the next page.
  
  #Page2.html#
- In this html page, you will find a hyperlink to the next page.
+ >In this html page, you will find a hyperlink to the next page.
  
  #Page3.html#
-In this html page, you will find a hyperlink to the next page.
+>In this html page, you will find a hyperlink to the next page.
  
  #Page4.html#
- In this html page, you will find a hyperlink to the next page.
+ >In this html page, you will find a hyperlink to the next page.
  
  #Page5.html#
-In this html page, you will find a hyperlink to the next page.
+>In this html page, you will find a hyperlink to the next page.
 
 #Image#
-The image provided is of a famous cartoon character from Spongebob, Patrick Star.
+>The image provided is of a famous cartoon character from Spongebob, Patrick Star.
 
 #Video#
-In this you will find a 30 second video of a young man singing about a 30 second video.
+>In this you will find a 30 second video of a young man singing about a 30 second video.
 
 #How to run#
-If someone were to run my website, all they would need to do is run my website on a local environment and make sure to have all files in a folder. 
+>If someone were to run my website, all they would need to do is run my website on a local environment and make sure to have all files in a folder. 
 
 #Link#
-The link to my website is, https://d3gzx8aumud5ob.cloudfront.net 
+>The link to my website is, https://d3gzx8aumud5ob.cloudfront.net 
